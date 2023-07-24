@@ -12,4 +12,5 @@ Run the program, and it will find and print all possible paths from the top-left
 
 # Contributors
 **Aditya Kharmale**
+
 Feel free to contribute to this project by making improvements or adding new features. Happy maze solving!
